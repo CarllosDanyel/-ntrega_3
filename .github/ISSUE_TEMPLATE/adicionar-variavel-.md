@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-adicione as  variaveis carllos e danyel
+adicione as função soma
