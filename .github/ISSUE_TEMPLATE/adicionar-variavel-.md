@@ -1,10 +1,10 @@
 ---
 name: 'adicionar variavel '
-about: adicionar uma variavel no aquivo app
+about: adicionar uma variavel no aquivo utils.java
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-adicionar uma variável "int" no arquivo app
+adicionar uma variavel no aquivo utils.java dois int com valor de 10 e faca a soma de ambos.
